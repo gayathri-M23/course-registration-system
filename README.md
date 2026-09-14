@@ -4,13 +4,13 @@ A full-stack, responsive web application built for a college CRUD activity. The 
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 In academic environments, course enrollments can be chaotic and error-prone when handled via manual paperwork or fragmented spreadsheets. Institutions require a centralized, lightweight, reliable, and user-friendly digital system to manage student course enrollments, validate data integrity, and provide immediate real-time feedback.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Provide an intuitive single-page interface for course registration.
 - Implement end-to-end CRUD (Create, Read, Update, Delete) data operations.
@@ -20,7 +20,7 @@ In academic environments, course enrollments can be chaotic and error-prone when
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Responsive Dashboard**: Academic collegiate theme optimized for desktops, tablets, and mobile screens.
 - **Full CRUD Workflow**:
@@ -37,7 +37,7 @@ In academic environments, course enrollments can be chaotic and error-prone when
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -48,7 +48,7 @@ In academic environments, course enrollments can be chaotic and error-prone when
 
 ---
 
-## 🔄 CRUD Operations
+## CRUD Operations
 
 | Operation | Action in UI | HTTP Method | Endpoint | Description |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ In academic environments, course enrollments can be chaotic and error-prone when
 
 ---
 
-## 🌐 REST API Endpoints
+## REST API Endpoints
 
 ### 1. Retrieve All Registrations
 - **Endpoint**: `GET /api/registrations`
@@ -115,7 +115,7 @@ In academic environments, course enrollments can be chaotic and error-prone when
 
 ---
 
-## 🗄️ Database Details
+## Database Details
 
 The database is managed via SQLite (`course_registration.db`).
 
@@ -134,7 +134,7 @@ The database is managed via SQLite (`course_registration.db`).
 
 ---
 
-## 🚀 How to Run the Application
+## How to Run the Application
 
 ### Prerequisites
 - Python 3.8+ installed (Python 3.14 recommended)
@@ -164,7 +164,7 @@ The database `course_registration.db` will automatically initialize on the first
 
 ---
 
-## 🧪 Testing Information
+## Testing Information
 
 An automated test script `test_crud.py` is provided to verify all CRUD endpoints and validation rules.
 
