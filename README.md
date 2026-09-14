@@ -72,10 +72,10 @@ In academic environments, course enrollments can be chaotic and error-prone when
     {
       "id": 1,
       "student_id": "STU-101",
-      "student_name": "Jane Doe",
-      "email": "jane.doe@college.edu",
+      "student_name": "Gayathri",
+      "email": "gayathri@gmail.com",
       "department": "Computer Science",
-      "year": "3rd Year",
+      "year": "2nd Year",
       "course_name": "Data Structures & Algorithms",
       "course_code": "CS301",
       "created_at": "2026-09-13 16:35:00"
