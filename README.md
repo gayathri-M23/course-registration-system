@@ -172,6 +172,8 @@ To run the automated test suite:
 ```bash
 python test_crud.py
 ```
+## Live Demo
+[Course Registration System - Live Website](https://course-registration-system-3-e66z.onrender.com)
 
 ### Test Cases Covered:
 1. **Initial READ**: Ensures `GET /api/registrations` responds with 200 OK.
