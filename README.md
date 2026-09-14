@@ -174,6 +174,7 @@ python test_crud.py
 ```
 ## Live Demo
 [Course Registration System - Live Website](https://course-registration-system-3-e66z.onrender.com)
+
 ```
 ## Screenshots
 
@@ -185,7 +186,9 @@ python test_crud.py
 
 ### Registered Courses
 ![Courses](screenshots/courses.png)
+
 ```
+
 ### Test Cases Covered:
 1. **Initial READ**: Ensures `GET /api/registrations` responds with 200 OK.
 2. **Backend Validation**:
